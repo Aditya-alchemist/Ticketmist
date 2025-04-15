@@ -1,0 +1,59 @@
+[
+    {
+      id: 1,
+      name: "VIP Ticket",
+      description: "VIP Access with exclusive perks",
+      price: "0.001",
+      imageCID: "bafybeihhaivmosip2cjsmitl7c4kravijycx7vcroi6khymgmykn2oc6m4", 
+    },
+    {
+      id: 2,
+      name: "Regular Ticket",
+      description: "Standard event access",
+      price: "0.001",
+      imageCID: "bafybeiadkug253mp7k6tyj3c3yy4pdhu5msnew5iqfotgmzya3mxblisqq", 
+    },
+    {
+      id: 3,
+      name: "Regular Ticket",
+      description: "Standard event access",
+      price: "0.001",
+      imageCID: "bafkreieqtyraljoiaq6yrzmmh3jjljaoqmd2upr2xrkvea2yltcpfhtr5m", 
+    },
+    {
+      id: 4,
+      name: "Regular Ticket",
+      description: "Standard event access",
+      price: "0.001",
+      imageCID: "bafkreibnjbhrz6crn6s4qba3dcnxocdxz3lmpp4zdr4lcr25mvwgf744p4",
+    },
+    {
+      id: 5,
+      name: "Regular Ticket",
+      description: "Standard event access",
+      price: "0.001",
+      imageCID: "bafybeie2mpq7yeusflqse3mics5pqrzwnhtisvlxq4fx33g6jctg4vs23q", 
+    },
+    {
+      id: 6,
+      name: "Regular Ticket",
+      description: "Standard event access",
+      price: "0.001",
+      imageCID: "bafybeihcmtugjg7ovtoyfwzgcyby43cofvlj654x4pfqq7og4c5kfwsbnm", 
+    },
+    {
+      id: 7,
+      name: "Regular Ticket",
+      description: "Standard event access",
+      price: "0.001",
+      imageCID: "bafybeihx5adynixnqzley4twbpixgcuxnb5e4ectqilwznlyjuciunyrfq", 
+    },
+    {
+      id: 8,
+      name: "Regular Ticket",
+      description: "Standard event access",
+      price: "0.001",
+      imageCID: "bafkreihfxemusydlugmcoun4c4j2js72gui4alqgsc64p6x255w4gm2kzi", 
+    }
+  ];
+  

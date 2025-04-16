@@ -835,7 +835,7 @@ function App() {
     } catch (err) {
       console.error("BaseSepolia not initalized in wallet", err);
       setError("Failed to connect wallet: you have not initalized baseSepolia in your wallet " + err.message);
-	  alert("BaseSepolia not initalized in wallet, please add baseSepolia to your wallet and refresh the page");
+	  alert("BaseSepolia not initalized in wallet, please add baseSepolia to your wallet and refresh the page\n BaseSepolia configuration : \n chainid: 84532 , \n rpc : https://sepolia.base.org \n name : Base Sepolia Testnet \n symbol : ETH");
     }
   };
 

@@ -2,7 +2,6 @@
 
 ---
 
-![github-submission-banner](https://github.com/user-attachments/assets/a1493b84-e4e2-456e-a791-ce35ee2bcf2f)
 
 # 🎟 NFTicket — Own Your Entry
 
@@ -119,6 +118,8 @@ npm run dev
 - 📊 Dashboard for event organizers to track attendance and sales  
 
 ---
+
+
 
 ## 📎 Resources / Credits
 

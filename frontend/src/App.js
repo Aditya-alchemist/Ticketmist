@@ -833,8 +833,9 @@ function App() {
 
       window.ethereum.on("accountsChanged", handleAccountChange);
     } catch (err) {
-      console.error("Connection error:", err);
-      setError("Failed to connect wallet: " + err.message);
+      console.error("BaseSepolia not initalized in wallet", err);
+      setError("Failed to connect wallet: you have not initalized baseSepolia in your wallet " + err.message);
+	  alert("BaseSepolia not initalized in wallet, please add baseSepolia to your wallet and refresh the page");
     }
   };
 

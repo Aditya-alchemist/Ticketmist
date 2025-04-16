@@ -68,7 +68,7 @@ Event ticketing is often plagued by fraud, scalping, and lack of transparency. N
 
 ## 📽 Demo & Deliverables
 
-- *Demo Video Link:* [https://youtu.be](https://youtu.be/LaU0-yZE__0?si=XUMQSbhZSYt3d4Za)  
+- *Demo Video Link:* [https://youtu.be](https://youtu.be/G2GOn4egtZ0?si=xYzfVvXyk1wUosG9)  
 
 
 ---

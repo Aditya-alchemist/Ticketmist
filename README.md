@@ -122,11 +122,11 @@ npm run dev
 
 ## 📎 Resources / Credits
 
-- [OnchainKit](https://docs.base.org/onchainkit/) for wallet & account abstraction  
+- [OnchainKit](https://docs.base.org/) for wallet & account abstraction  
 - [Base Sepolia](https://docs.base.org/) testnet for low-cost deployment  
 - [Pinata](https://www.pinata.cloud/) for IPFS-based NFT metadata  
 - [wagmi.sh](https://wagmi.sh) and [viem.sh](https://viem.sh) for frontend web3 interactions  
-- ETHIndia team and mentors for guidance and feedback  
+ 
 
 ---
 

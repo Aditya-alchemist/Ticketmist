@@ -98,10 +98,10 @@ Event ticketing is often plagued by fraud, scalping, and lack of transparency. N
 
 ```bash
 # Clone the repo
-git clone https://github.com/ChainCatalysts/nft-ticketing-dapp
+git clone https://github.com/Aditya-alchemist/Ticketmist
 
 # Install dependencies
-cd nft-ticketing-dapp
+cd frontend
 npm install
 
 # Set up environment variables

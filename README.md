@@ -87,6 +87,11 @@ Event ticketing is often plagued by fraud, scalping, and lack of transparency. N
 - Node.js v18+  
 - Metamask wallet (connected to Base Sepolia)  
 - Pinata API Key (for IPFS uploads)
+- Base Sepolia chain should be already initialized in your wallet or else it will throw error or will not mint ticket.
+ 
+--configuration in wallet (metamask):-
+![Screenshot 2025-04-16 153840](https://github.com/user-attachments/assets/538fe5fe-e478-4969-aca1-60e57804e0f7)
+
 
 ### Local Setup:
 

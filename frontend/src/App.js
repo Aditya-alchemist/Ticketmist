@@ -884,7 +884,7 @@ function App() {
 
   const mintTicket = async () => {
     if (!selectedTicket || !contract) {
-      setError("Please select a ticket type or ensure contract is initialized");
+      setError("Please select a ticket ");
       return;
     }
 
